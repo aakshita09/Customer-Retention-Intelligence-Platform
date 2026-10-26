@@ -1,0 +1,16 @@
+{
+  "logistic_regression": {
+    "roc_auc": 0.8457303872513646,
+    "pr_auc": 0.9411218814864711,
+    "brier": 0.14406941177728455,
+    "top_decile_lift": 1.375764993880049
+  },
+  "gradient_boosting": {
+    "roc_auc": 0.8321862578193836,
+    "pr_auc": 0.929911554954369,
+    "brier": 0.14738294333806773,
+    "top_decile_lift": 1.3511977618464766
+  },
+  "baseline_churn_rate": 0.7268683274021353,
+  "selected": "logistic_regression"
+}

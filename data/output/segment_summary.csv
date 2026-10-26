@@ -1,0 +1,8 @@
+segment,customers,avg_revenue,avg_churn_prob,revenue_at_risk
+At risk,652,1413.437,0.951,2447908.76
+Churned,1104,623.469,0.974,1622300.51
+First-time buyers,98,173.567,0.538,46817.9
+High-value,116,4780.863,0.442,812001.17
+New users,935,0.0,,0.0
+Price-sensitive,100,566.168,0.441,86940.57
+Repeat customers,562,932.596,0.429,744849.61
